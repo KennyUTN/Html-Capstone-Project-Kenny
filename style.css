@@ -22,6 +22,12 @@ p {
   background-size: cover;
   height: 85vh;
 }
+
+.background-pic2{
+  background-image: url(../img/background2.jpg);
+  background-size: cover;
+  height: 50vh;
+}
 .index-part1 {
   background-image: url(../img/background.jpg);
   background-size: cover;
