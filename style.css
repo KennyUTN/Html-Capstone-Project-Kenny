@@ -35,3 +35,14 @@ p {
   -webkit-text-stroke-width: 1px;
   -webkit-text-stroke-color: black;
 }
+
+.card{
+  border:unset;
+  align-items:center;
+  justify-content: center;
+}
+.card-image{
+
+  width:10em;
+  height:auto;
+}
