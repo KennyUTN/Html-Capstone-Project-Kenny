@@ -17,9 +17,9 @@ p {
   padding: 0;
 }
 
-.main {
+.index-part1 {
   background-image: url(../img/background.jpg);
   background-size: cover;
-  height: 90vh;
+  height: 85vh;
   font-family: 'Roboto', sans-serif;
 }
