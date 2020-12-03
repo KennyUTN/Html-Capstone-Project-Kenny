@@ -17,10 +17,19 @@ p {
   padding: 0;
 }
 
+:root {
+  --black: #272A31;
+  --orange: #EC5242;
+  --lightgray: #D3D3D3;
+}
 .background-pic{
   background-image: url(../img/background.jpg);
   background-size: cover;
   height: 85vh;
+}
+.desktop-nav-container{background-color: var(--lightgray)}
+.responsiveNav{
+  background-color: var(--lightgray);
 }
 
 .img-logo{
