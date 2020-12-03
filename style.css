@@ -23,7 +23,7 @@ p {
   --lightgray: #D3D3D3;
 }
 .background-pic{
-  background-image: url(../img/background.jpg);
+  background-image: url(../img/background.png);
   background-size: cover;
   height: 85vh;
 }
@@ -32,8 +32,15 @@ p {
   background-color: var(--lightgray);
 }
 
+.sponsors{
+  background-color: var(--black);
+}
+
 .img-logo{
 width:10rem;
+}
+.footer-logo-img{
+  width:10rem;
 }
 .background-pic2{
   background-image: url(../img/background2.jpg);
@@ -41,7 +48,7 @@ width:10rem;
   height: 50vh;
 }
 .index-part1 {
-  background-image: url(../img/background.jpg);
+  background-image: url(../img/background.png);
   background-size: cover;
   height: 85vh;
   font-family: 'Roboto', sans-serif;
