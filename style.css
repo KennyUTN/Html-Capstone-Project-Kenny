@@ -65,12 +65,12 @@ width:10rem;
   background-size: cover;
   height: 50vh;
 }
-.index-part1 {
+/* .index-part1 {
   background-image: url(../img/background.png);
   background-size: cover;
   height: 85vh;
   font-family: 'Roboto', sans-serif;
-}
+} */
 
 .stroke {
   color: white;
