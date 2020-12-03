@@ -23,6 +23,9 @@ p {
   height: 85vh;
 }
 
+.img-logo{
+width:10rem;
+}
 .background-pic2{
   background-image: url(../img/background2.jpg);
   background-size: cover;
