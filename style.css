@@ -27,13 +27,31 @@ p {
   background-size: cover;
   height: 85vh;
 }
-.desktop-nav-container{background-color: var(--lightgray)}
-.responsiveNav{
+
+.text--lightgray{
+  color: var(--lightgray);
+}
+
+.text--black{
+  color: var(--black);
+}
+
+.text--orange{
+  color: var(--orange);
+}
+
+
+
+.bg--lightgray{
   background-color: var(--lightgray);
 }
 
-.sponsors{
+.bg--black{
   background-color: var(--black);
+}
+
+.bg--orange{
+  background-color: var(--orange);
 }
 
 .img-logo{
@@ -58,7 +76,7 @@ width:10rem;
   color: white;
   -webkit-text-fill-color: white; /* Will override color (regardless of order) */
   -webkit-text-stroke-width: 1px;
-  -webkit-text-stroke-color: #000fff;
+  -webkit-text-stroke-color: var(--orange);
 }
 
 .card{
