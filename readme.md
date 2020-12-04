@@ -46,7 +46,7 @@ The website was mainly built using Bootstrap4 and some stylings were given with 
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page]()
+Feel free to check the [issues page](https://github.com/KennyUTN/Html-Capstone-Project-Kenny/issues)
 
 ## Show your support
 

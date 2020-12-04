@@ -106,6 +106,10 @@ width:10rem;
   -webkit-text-stroke-width: 3px;
   -webkit-text-stroke-color: var(--orange);
 }
+.bg--navbar{
+
+  background-color: #bbaa99;
+}
 
 .card{
   border:unset;
