@@ -25,7 +25,7 @@ The website was mainly built using Bootstrap4 and some stylings were given with 
 
 ## Live Demo
 
-- [Visit Page](https://raw.githack.com/KennyUTN/Html-Capstone-Project-Kenny/feature/index.html)
+- [Visit Page](https://rawcdn.githack.com/KennyUTN/Html-Capstone-Project-Kenny/562938d8cbd815f78ee855f750d87c746349ce82/index.html)
 
 ## Built With
 
@@ -46,7 +46,7 @@ The website was mainly built using Bootstrap4 and some stylings were given with 
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page] if you want to contribute(https://github.com/KennyUTN/Html-Capstone-Project-Kenny/issues)
+Feel free to check the [issues page](https://github.com/KennyUTN/Html-Capstone-Project-Kenny/issues) if you want to contribute
 
 ## Show your support
 
