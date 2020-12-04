@@ -79,6 +79,10 @@ width:10rem;
   padding:1rem;
 
 }
+.customwidth{
+  width:9rem !important;
+  align-self:center;
+}
 @media only screen and (max-width: 768px){
 
   .normalflexbox{
@@ -99,7 +103,7 @@ width:10rem;
 .stroke {
   color: white;
   -webkit-text-fill-color: white; /* Will override color (regardless of order) */
-  -webkit-text-stroke-width: 1px;
+  -webkit-text-stroke-width: 3px;
   -webkit-text-stroke-color: var(--orange);
 }
 
