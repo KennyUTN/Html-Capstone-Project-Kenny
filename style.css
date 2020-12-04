@@ -23,6 +23,13 @@ p {
   --lightgray: #d3d3d3;
 }
 
+@font-face {
+  font-family: 'Cocogoose Pro Regular';
+  font-style: normal;
+  font-weight: normal;
+  src: url('../font/Cocogoose Pro Regular Trial.woff') format('woff');
+}
+
 .background-pic {
   background-image: url(../img/background2.png);
   background-size: cover;
@@ -53,8 +60,12 @@ p {
   background-color: var(--orange);
 }
 
+.index-part1 {
+  font-family: 'Cocogoose Pro Regular', sans-serif;
+}
+
 .img-logo {
-  width: 10rem;
+  width: 6rem;
 }
 
 .footer-logo-img {
@@ -80,7 +91,7 @@ p {
 }
 
 .customwidth {
-  width: 9rem ;
+  width: 9rem;
   align-self: center;
 }
 
@@ -89,19 +100,20 @@ p {
     flex-direction: column;
   }
 
-  .normalflexcolumn > img {
+  .normalflexcolumn>img {
     margin: 0 auto;
   }
 }
 
 .table {
   margin: auto;
-  width: 75% ;
+  width: 75%;
 }
 
 .stroke {
   color: white;
-  -webkit-text-fill-color: white; /* Will override color (regardless of order) */
+  -webkit-text-fill-color: white;
+  /* Will override color (regardless of order) */
   -webkit-text-stroke-width: 3px;
   -webkit-text-stroke-color: var(--orange);
 }
@@ -126,7 +138,7 @@ p {
   height: 6rem;
 }
 
-.sponsors-img > img {
+.sponsors-img>img {
   width: 15rem;
   height: auto;
 }
