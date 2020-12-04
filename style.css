@@ -80,7 +80,7 @@ p {
 }
 
 .customwidth {
-  width: 9rem !important;
+  width: 9rem ;
   align-self: center;
 }
 
@@ -96,7 +96,7 @@ p {
 
 .table {
   margin: auto;
-  width: 75% !important;
+  width: 75% ;
 }
 
 .stroke {
