@@ -18,86 +18,85 @@ p {
 }
 
 :root {
-  --black: #272A31;
-  --orange: #EC5242;
-  --lightgray: #D3D3D3;
+  --black: #272a31;
+  --orange: #ec5242;
+  --lightgray: #d3d3d3;
 }
-.background-pic{
+
+.background-pic {
   background-image: url(../img/background2.png);
   background-size: cover;
   height: 85vh;
 }
 
-.text--lightgray{
+.text--lightgray {
   color: var(--lightgray);
 }
 
-.text--black{
+.text--black {
   color: var(--black);
 }
 
-.text--orange{
+.text--orange {
   color: var(--orange);
 }
 
-
-
-.bg--lightgray{
+.bg--lightgray {
   background-color: var(--lightgray);
 }
 
-.bg--black{
+.bg--black {
   background-color: var(--black);
 }
 
-.bg--orange{
+.bg--orange {
   background-color: var(--orange);
 }
 
-.img-logo{
-width:10rem;
+.img-logo {
+  width: 10rem;
 }
-.footer-logo-img{
-  width:10rem;
+
+.footer-logo-img {
+  width: 10rem;
 }
-.background-pic2{
+
+.background-pic2 {
   background-image: url(../img/background2.jpg);
   background-size: cover;
   height: 50vh;
 }
 
-.normalflexbox{
-  display:flex;
-  justify-content:center;
-  padding:1rem;
+.normalflexbox {
+  display: flex;
+  justify-content: center;
+  padding: 1rem;
 }
 
-.normalflexcolumn{
-
+.normalflexcolumn {
   display: flex;
   flex-direction: column;
-  padding:1rem;
-
+  padding: 1rem;
 }
-.customwidth{
-  width:9rem !important;
-  align-self:center;
-}
-@media only screen and (max-width: 768px){
 
-  .normalflexbox{
-    flex-direction:column;
+.customwidth {
+  width: 9rem !important;
+  align-self: center;
+}
+
+@media only screen and (max-width: 768px) {
+  .normalflexbox {
+    flex-direction: column;
   }
+
   .normalflexcolumn > img {
     margin: 0 auto;
-
   }
 }
 
-.table{
-
+.table {
   margin: auto;
- width: 75% !important;
+  width: 75% !important;
 }
 
 .stroke {
@@ -106,29 +105,28 @@ width:10rem;
   -webkit-text-stroke-width: 3px;
   -webkit-text-stroke-color: var(--orange);
 }
-.bg--navbar{
 
-  background-color: #bbaa99;
+.bg--navbar {
+  background-color: #ba9;
 }
 
-.card{
-  border:unset;
-  align-items:center;
+.card {
+  border: unset;
+  align-items: center;
   justify-content: center;
 }
-.card-image{
 
-  width:10em;
-  height:auto;
+.card-image {
+  width: 10em;
+  height: auto;
 }
 
-.act-img{
-  width:6rem;
-  height:6rem;
+.act-img {
+  width: 6rem;
+  height: 6rem;
 }
 
 .sponsors-img > img {
-
-  width:15rem;
-  height:auto;
+  width: 15rem;
+  height: auto;
 }
