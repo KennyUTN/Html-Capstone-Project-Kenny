@@ -23,7 +23,7 @@ p {
   --lightgray: #D3D3D3;
 }
 .background-pic{
-  background-image: url(../img/background5.png);
+  background-image: url(../img/background2.png);
   background-size: cover;
   height: 85vh;
 }
@@ -79,11 +79,21 @@ width:10rem;
   padding:1rem;
 
 }
+@media only screen and (max-width: 768px){
+
+  .normalflexbox{
+    flex-direction:column;
+  }
+  .normalflexcolumn > img {
+    margin: 0 auto;
+
+  }
+}
 
 .table{
 
   margin: auto;
- width: 75% !important; 
+ width: 75% !important;
 }
 
 .stroke {
