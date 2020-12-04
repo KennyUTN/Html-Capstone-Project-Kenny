@@ -132,16 +132,3 @@ width:10rem;
   width:15rem;
   height:auto;
 }
-
-.table-bordered{
-    border-color: var(--orange);
-  }
-  .table-bordered > thead > tr {
-      border-color: var(--orange);
-    }
-.table-bordered > thead > tr > th{
-    border-color: var(--orange);
-}
-.table-bordered > tbody > tr > td{
-    border-color: var(--orange);
-  }
