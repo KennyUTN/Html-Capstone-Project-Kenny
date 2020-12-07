@@ -31,7 +31,7 @@ p {
 }
 
 .background-pic {
-  background-image: url(../img/background2.png);
+  background-image: url(../img/background.png);
   background-size: cover;
   height: 85vh;
 }
@@ -72,11 +72,6 @@ p {
   width: 10rem;
 }
 
-.background-pic2 {
-  background-image: url(../img/background2.jpg);
-  background-size: cover;
-  height: 50vh;
-}
 
 .normalflexbox {
   display: flex;
