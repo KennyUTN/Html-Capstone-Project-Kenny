@@ -25,7 +25,7 @@ The website was mainly built using Bootstrap4 and some stylings were given with 
 
 ## Live Demo
 
-- [Visit Page](https://rawcdn.githack.com/KennyUTN/Html-Capstone-Project-Kenny/fc0d1403602fd057f07419e9700631da79286397/index.html)
+- [Visit Page](https://raw.githack.com/KennyUTN/Html-Capstone-Project-Kenny/workbranch/index.html)
 
 ## Built With
 
