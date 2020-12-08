@@ -73,6 +73,12 @@ p {
   padding: 1rem;
 }
 
+.stepborder{
+  border: 1px solid grey;
+  border-radius: 10px;
+  margin:auto;
+}
+
 .customwidth {
   width: 9rem;
   align-self: center;
