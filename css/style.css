@@ -23,15 +23,6 @@ p {
   --lightgray: #d3d3d3;
 }
 
-
-@font-face {
-     font-family: "Cocogoose Pro Regular Trial";
-     src: url('../font/Cocogoose Pro Regular Trial.ttf') format('ttf');
-   }
-
-.testo{
-  font-family: 'Cocogoose Pro Regular Trial', sans-serif;
-}
 .background-pic {
   background-image: url(../img/background3.png);
   background-size: cover;
