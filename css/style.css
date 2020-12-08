@@ -73,10 +73,10 @@ p {
   padding: 1rem;
 }
 
-.stepborder{
+.stepborder {
   border: 1px solid grey;
   border-radius: 10px;
-  margin:auto;
+  margin: auto;
 }
 
 .customwidth {
