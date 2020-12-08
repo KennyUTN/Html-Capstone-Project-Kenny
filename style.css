@@ -1,0 +1,139 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  font-family: 'Lato', sans-serif;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+p {
+  margin: 0;
+  padding: 0;
+}
+
+:root {
+  --black: #272a31;
+  --orange: #ec5242;
+  --lightgray: #d3d3d3;
+}
+
+@font-face {
+  font-family: 'Cocogoose Pro Regular';
+  font-style: normal;
+  font-weight: normal;
+  src: url('../font/Cocogoose_trial.otf') format('otf');
+}
+
+.background-pic {
+  background-image: url(../img/background.png);
+  background-size: cover;
+  height: 85vh;
+}
+
+.text--lightgray {
+  color: var(--lightgray);
+}
+
+.text--black {
+  color: var(--black);
+}
+
+.text--orange {
+  color: var(--orange);
+}
+
+.bg--lightgray {
+  background-color: var(--lightgray);
+}
+
+.bg--black {
+  background-color: var(--black);
+}
+
+.bg--orange {
+  background-color: var(--orange);
+}
+
+.index-part1 {
+  font-family: 'Cocogoose Pro Regular', sans-serif;
+}
+
+.img-logo {
+  width: 6rem;
+}
+
+.footer-logo-img {
+  width: 10rem;
+}
+
+.normalflexbox {
+  display: flex;
+  justify-content: center;
+  padding: 1rem;
+}
+
+.normalflexcolumn {
+  display: flex;
+  flex-direction: column;
+  padding: 1rem;
+}
+
+.customwidth {
+  width: 9rem;
+  align-self: center;
+}
+
+@media only screen and (max-width: 768px) {
+  .normalflexbox {
+    flex-direction: column;
+  }
+
+  .normalflexcolumn > img {
+    margin: 0 auto;
+  }
+}
+
+.table {
+  margin: auto;
+  width: 75%;
+}
+
+.stroke {
+  color: white;
+  -webkit-text-fill-color: white;
+
+  /* Will override color (regardless of order) */
+  -webkit-text-stroke-width: 3px;
+  -webkit-text-stroke-color: var(--orange);
+}
+
+.bg--navbar {
+  background-color: #ba9;
+}
+
+.card {
+  border: unset;
+  align-items: center;
+  justify-content: center;
+}
+
+.card-image {
+  width: 10em;
+  height: auto;
+}
+
+.act-img {
+  width: 6rem;
+  height: 6rem;
+}
+
+.sponsors-img > img {
+  width: 15rem;
+  height: auto;
+}
