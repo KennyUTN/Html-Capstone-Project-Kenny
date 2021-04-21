@@ -18,10 +18,6 @@ Instead of a Conference, I designed the website to be for a music festival, the 
 
 The website was mainly built using Bootstrap4 and some stylings were given with plain CSS.
 
-## Video Description
-
-- [Watch Video](https://www.loom.com/share/a665af9f3cf6497286d979cb264323fb)
-
 
 ## Live Demo
 
